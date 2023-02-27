@@ -104,8 +104,8 @@ p {
     color: #ffffff;
 }
 
-/* Centering the heading in the benefits section  */
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
+/* Centering the heading in the benefits section 2*/
+.benefit-lead h2, .benefit-brand 22, .benefit-cost h2  {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -147,6 +147,6 @@ footer {
 }
 
 /* Size of heading in the footer section */
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
