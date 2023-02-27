@@ -11,4 +11,4 @@ To make the website mode accessable I've:
 - Optimized the images to ma more manageable size
 - Added a more descriptive website title
 
-View live site: [here](https://emjkenz.github.io/homework1/)
+View live site: [here](https://emjkenz.github.io/Homework-1-SEO-Website-Optimisation/)
